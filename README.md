@@ -148,4 +148,4 @@ With that said, for apps without complex async flows, `redux-loop` works really 
 
 ## Other Alternatives
 
-Outside `redux` echosystem, [cerebal](https://github.com/cerebral/cerebral)'s signals are really cool; [Cycle](https://cycle.js.org/)'s reactive approach is much more versatile for complex async flows which keeping its core dead simple.
+Outside `redux` echosystem, [cerebal](https://github.com/cerebral/cerebral)'s signals are really cool; [Cycle](https://cycle.js.org/)'s reactive approach is much more versatile for complex async flows while keeping its core dead simple.
